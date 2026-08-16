@@ -1,0 +1,49 @@
+{
+  "template": "gym",
+  "brand": {
+    "name": "Karabakh Fitness",
+    "shortName": "Karabakh",
+    "tagline": "",
+    "email": "",
+    "phone": "",
+    "address": "",
+    "city": "",
+    "social": {
+      "instagram": "",
+      "youtube": "",
+      "x": ""
+    },
+    "logo": "/brand/logo.png"
+  },
+  "colors": {
+    "bg": "#0f1d14",
+    "bgElevated": "#17291e",
+    "surface": "#1d3327",
+    "surface2": "#274234",
+    "text": "#f2f4f3",
+    "muted": "#87a99c",
+    "accent": "#3cc35a",
+    "accent2": "#99dfa9",
+    "logoBg": "#0d170f"
+  },
+  "layout": {
+    "headerLogoBg": true,
+    "footerLogoBg": true
+  },
+  "pages": {
+    "home": true,
+    "about": true,
+    "branches": true,
+    "halls": false,
+    "trainers": true,
+    "services": true,
+    "tools": false,
+    "equipment": true,
+    "pricing": true,
+    "shop": true,
+    "blog": true,
+    "faq": true,
+    "contact": true,
+    "auth": false
+  }
+}
